@@ -106,6 +106,7 @@ Are you a new or experienced speaker looking for a place to share something cool
 <!-- or if none - *No Calls for papers or presentations were submitted this week.* -->
 
 If you are an event organizer hoping to expand the reach of your event, please submit a link to the website through a [PR to TWiR](https://github.com/rust-lang/this-week-in-rust) or by reaching out on [X (formerly Twitter)](https://x.com/ThisWeekInRust) or [Mastodon](https://mastodon.social/@thisweekinrust)!
+* [**Oxidize Conference**](https://oxidizeconf.com/cfp/) | CFP closes 2025-05-04 | Berlin, Germany | Conference is 2025-09-17 & 18
 
 ## Updates from the Rust Project
 
@@ -231,6 +232,7 @@ Rusty Events between 2025-04-16 - 2025-05-14 🦀
     * [**VII Lenguajes, VII Perspectivas, I Problema**](https://www.meetup.com/madrust/events/307030185)
 * 2025-05-07 | Oxford, UK | [Oxford Rust Meetup Group](https://www.meetup.com/oxford-rust-meetup-group/events/)
     * [**Oxford Rust and C++ social**](https://www.meetup.com/oxford-rust-meetup-group/events/306541571)
+
 
 ### North America
 * 2025-04-09 | Austin, TX, US | [Rust ATX](https://www.meetup.com/rust-atx/events/)
